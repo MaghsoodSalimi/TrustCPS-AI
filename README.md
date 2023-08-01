@@ -11,7 +11,7 @@
 <img src="./HCC2023-3.png" align="left" height="400" width="1024" >
 -->
 
-<img src="./HCC2023-MDU.png" align="left" height="400" width="1024" >
+<img src="./HCC2023-MDU.jpg" align="left" height="400" width="1024" >
 
 <!-- <a href="url"><img src="./IMG_0898.jpg" align="left" height="48" width="48" opacity="0.5";></a> -->
 
