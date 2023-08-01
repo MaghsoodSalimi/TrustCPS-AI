@@ -37,7 +37,7 @@ We have invited experts in the field from all over the world to give the invited
 <!-- FIXME Check the links -->
 **[Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft** 
 
-**[Gabriele Lenzini](), University of Luxembourg**
+**[Gabriele Lenzini](https://irisc-lab.uni.lu/gabriele-lenzini/), University of Luxembourg**
 
 **[Paolo Masci](https://www.nianet.org/directory/research-staff/paolo-masci/), Research Scientist and Principal AssociateFrom NASA Langley Research Center**
 
