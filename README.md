@@ -60,18 +60,15 @@ Jonas is a professor of social work at Mälardalen University. His research revo
 
 Simon is an Assistant Professor in the Cybersecurity group in the Technology, Policy, and Management (TPM) faculty at the Delft University of Technology (TU Delft, Netherlands). His specialization is in human-centred security: usability and perceptions of security-related technologies, security behaviour change, security economics, and decision-making in security technology management, support, and policy. Current research includes: examining how best to position security and remediation support for users of consumer IoT devices; practitioner experiences and decisions in patching of IT systems in complex organizations, and; multi-stakeholder perspectives on the management of employee-facing security in organizations.
 
-<br /> 
-
-<b>Title:</b> Refining the Blunt Instruments of Cyber-Risk Management
+<b>Title</b>: Refining the Blunt Instruments of Cyber-Risk Management
 <br /> 
 
  
 
-Abstract:
+<b>Abstract<b>:
 <br /> 
 
 Well-meaning cybersecurity risk owners will deploy controls and countermeasures in an effort to manage the risks they see affecting their services or systems. These controls and countermeasures may produce unintended, negative harms themselves, adversely affecting user behaviour, user inclusion, or the infrastructure itself. Here I will first describe a framework for exploring the potential unintended harms of security and privacy controls, informed by a range of case studies. I will then describe subsequent work to explore how existing cyber-risk management approaches can be adapted to be less ‘blunt’ and more precise, to preserve legitimate behaviours while preventing malicious behaviours within a managed system. This leads to consideration of challenges in securing a system against identifiable risks, while ensuring that it is usable - and ultimately, accessible - for intended users.
-
 
 
 **Gabriele Lenzini**
@@ -86,12 +83,12 @@ Lenzini’s research stems from formal approach to modelling and analysis of sec
 <br /> 
 
 
-Title: Sociotechnical Cybersecurity: an overview, with reference to end-to-end encryption and threat intelligence
+<b>Title<b>: Sociotechnical Cybersecurity: an overview, with reference to end-to-end encryption and threat intelligence
 
 <br /> 
  
 
-Abstract:
+<b>Abstract<b>:
 <br /> 
 
 On this talk I will give an overview of the research on sociotechnical security taking from my personal experience in running an international workshop on the subject (STAST). I will then move to explain how today sociotechnical security applies in the forthcoming topic of cybersecurity, and I will share thoughts and some insights from my on research on combining formal modelling of secure solutions with insights coming from research investigation on user experience in security. I will refer to two particular use cases: end-to-end encryption and secure cyber threats data sharing.
