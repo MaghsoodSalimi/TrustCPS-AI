@@ -44,8 +44,8 @@ We have invited experts in the field from all over the world to give the invited
 
 **[Paolo Masci](https://www.nianet.org/directory/research-staff/paolo-masci/), NASA Langley Research Center, USA**
 
- ## Invited Talks
-<!-- FIXME Check the links -->
+## Invited Talks
+
 
 **[Jonas Stier]**
 I am a professor of social work at Mälardalen University. My research revolves around issues related to identity, discourses, participation, diversity, intercultural interaction, knowledge production and societal changes (e.g. migration and digitization) - and their consequences for people, groups, organizations and society in general. I am also one of the initiators of addai.org - a policy initiative linked to artificial intelligence.
