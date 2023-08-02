@@ -54,7 +54,6 @@ We have invited experts in the field from all over the world to give the invited
 <h3>Simon Parkin</h3> 
 <b>Title: Refining the Blunt Instruments of Cyber-Risk Management</b>
 <br /> <br /> 
-
 <b>Abstract</b>: Well-meaning cybersecurity risk owners will deploy controls and countermeasures in an effort to manage the risks they see affecting their services or systems. These controls and countermeasures may produce unintended, negative harms themselves, adversely affecting user behaviour, user inclusion, or the infrastructure itself. Here I will first describe a framework for exploring the potential unintended harms of security and privacy controls, informed by a range of case studies. I will then describe subsequent work to explore how existing cyber-risk management approaches can be adapted to be less ‘blunt’ and more precise, to preserve legitimate behaviours while preventing malicious behaviours within a managed system. This leads to consideration of challenges in securing a system against identifiable risks, while ensuring that it is usable - and ultimately, accessible - for intended users.
 <br /> <br /> 
 <b>Bio</b>: Simon is an Assistant Professor in the Cybersecurity group in the Technology, Policy, and Management (TPM) faculty at the Delft University of Technology (TU Delft, Netherlands). His specialization is in human-centred security: usability and perceptions of security-related technologies, security behaviour change, security economics, and decision-making in security technology management, support, and policy. Current research includes: examining how best to position security and remediation support for users of consumer IoT devices; practitioner experiences and decisions in patching of IT systems in complex organizations, and; multi-stakeholder perspectives on the management of employee-facing security in organizations.
@@ -63,7 +62,6 @@ We have invited experts in the field from all over the world to give the invited
 <h3>Gabriele Lenzini</h3>
 <b>Title: Sociotechnical Cybersecurity: an overview, with reference to end-to-end encryption and threat intelligence</b>
 <br /> <br /> 
- 
 <b>Abstract</b>: On this talk I will give an overview of the research on sociotechnical security taking from my personal experience in running an international workshop on the subject (STAST). I will then move to explain how today sociotechnical security applies in the forthcoming topic of cybersecurity, and I will share thoughts and some insights from my on research on combining formal modelling of secure solutions with insights coming from research investigation on user experience in security. I will refer to two particular use cases: end-to-end encryption and secure cyber threats data sharing.
 <br /> <br /> 
 <b>Bio</b>: Lenzini Gabriele, holds a PhD in Computer Security from the University of Twente, in the Netherlands. He is Associate Professor at the University of Luxembourg (UL), and head of the Sociotechnical Cybersecurity research group at the UL’s center for Security Reliability and Trust (SnT).
