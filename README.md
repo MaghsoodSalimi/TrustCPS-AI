@@ -47,7 +47,7 @@ We have invited experts in the field from all over the world to give the invited
 ## Invited Talks
 
 
-<h2>**Jonas Stier**</h2>
+<h3>**Jonas Stier**</h3>
 <br /> 
 <br /> 
 <b>Bio</b>: Jonas is a professor of social work at Mälardalen University. His research revolves around issues related to identity, discourses, participation, diversity, intercultural interaction, knowledge production and societal changes (e.g. migration and digitization) - and their consequences for people, groups, organizations and society in general. He is also one of the initiators of addai.org - a policy initiative linked to artificial intelligence.
