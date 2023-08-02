@@ -70,7 +70,7 @@ We have invited experts in the field from all over the world to give the invited
 Lenzini’s research stems from formal approach to modelling and analysis of security solutions but extends to situations where the design or the analysis of security solutions intertwine with human and social aspects. Thus, it also explores questions regarding how security related with users as individuals (usability and user experience) or as collective (people’s trust depending on properties like fairness and transparency). Lenzini is UL member in Informatics Europe, ECSO, and the IFIP WG on Human Aspects of Information Security and Assurance. He is vice-chairs of the UL Ethical Review Board.
 <br /> 
 <br /> 
-<h4>Paolo Masci</h4>
+<h3>Paolo Masci</h3>
 <br /> 
 
 <br /> 
