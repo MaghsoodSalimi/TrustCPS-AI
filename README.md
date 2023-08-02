@@ -57,6 +57,7 @@ Jonas is a professor of social work at Mälardalen University. His research revo
 
 
 **Simon Parkin** 
+<br /> 
 <b>Title: Refining the Blunt Instruments of Cyber-Risk Management</b>
 <br /> 
 
@@ -73,6 +74,7 @@ Simon is an Assistant Professor in the Cybersecurity group in the Technology, Po
 
 
 **Gabriele Lenzini**
+<br /> 
 <b>Title: Sociotechnical Cybersecurity: an overview, with reference to end-to-end encryption and threat intelligence</b>
 
 <br /> 
