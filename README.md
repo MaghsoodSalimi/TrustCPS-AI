@@ -47,8 +47,12 @@ We have invited experts in the field from all over the world to give the invited
 ## Invited Talks
 
 
-**[Jonas Stier]**
-I am a professor of social work at Mälardalen University. My research revolves around issues related to identity, discourses, participation, diversity, intercultural interaction, knowledge production and societal changes (e.g. migration and digitization) - and their consequences for people, groups, organizations and society in general. I am also one of the initiators of addai.org - a policy initiative linked to artificial intelligence.
+**Jonas Stier**
+<br /> 
+
+He is a professor of social work at Mälardalen University. His research revolves around issues related to identity, discourses, participation, diversity, intercultural interaction, knowledge production and societal changes (e.g. migration and digitization) - and their consequences for people, groups, organizations and society in general. He is also one of the initiators of addai.org - a policy initiative linked to artificial intelligence.
+<br /> 
+
 Tilte: 
 
 **[Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft, The Netherlands** 
