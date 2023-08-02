@@ -47,13 +47,13 @@ We have invited experts in the field from all over the world to give the invited
 ## Invited Talks
 
 
-<h3>**Jonas Stier**</h3>
+<h3>Jonas Stier</h3>
 <br /> 
 <br /> 
 <b>Bio</b>: Jonas is a professor of social work at Mälardalen University. His research revolves around issues related to identity, discourses, participation, diversity, intercultural interaction, knowledge production and societal changes (e.g. migration and digitization) - and their consequences for people, groups, organizations and society in general. He is also one of the initiators of addai.org - a policy initiative linked to artificial intelligence.
 <br /> 
 <br /> 
-**Simon Parkin** 
+<h3>Simon Parkin</h3> 
 <br /> <br /> 
 <b>Title: Refining the Blunt Instruments of Cyber-Risk Management</b>
 <br /> 
@@ -63,7 +63,7 @@ We have invited experts in the field from all over the world to give the invited
 <b>Bio</b>: Simon is an Assistant Professor in the Cybersecurity group in the Technology, Policy, and Management (TPM) faculty at the Delft University of Technology (TU Delft, Netherlands). His specialization is in human-centred security: usability and perceptions of security-related technologies, security behaviour change, security economics, and decision-making in security technology management, support, and policy. Current research includes: examining how best to position security and remediation support for users of consumer IoT devices; practitioner experiences and decisions in patching of IT systems in complex organizations, and; multi-stakeholder perspectives on the management of employee-facing security in organizations.
 <br /> 
 <br /> 
-**Gabriele Lenzini**
+<h3>Gabriele Lenzini</h3>
 <br /> <br /> 
 <b>Title: Sociotechnical Cybersecurity: an overview, with reference to end-to-end encryption and threat intelligence</b>
 <br /> 
@@ -74,7 +74,7 @@ We have invited experts in the field from all over the world to give the invited
 Lenzini’s research stems from formal approach to modelling and analysis of security solutions but extends to situations where the design or the analysis of security solutions intertwine with human and social aspects. Thus, it also explores questions regarding how security related with users as individuals (usability and user experience) or as collective (people’s trust depending on properties like fairness and transparency). Lenzini is UL member in Informatics Europe, ECSO, and the IFIP WG on Human Aspects of Information Security and Assurance. He is vice-chairs of the UL Ethical Review Board.
 <br /> 
 <br /> 
-**Paolo Masci**
+<h3>Paolo Masci</h3>
 <br /> 
 
 <br /> 
