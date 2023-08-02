@@ -62,7 +62,7 @@ Simon is an Assistant Professor in the Cybersecurity group in the Technology, Po
 
 <br /> 
 
-Title: Refining the Blunt Instruments of Cyber-Risk Management
+<b>Title:</b> Refining the Blunt Instruments of Cyber-Risk Management
 <br /> 
 
  
