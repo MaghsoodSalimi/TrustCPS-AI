@@ -47,14 +47,11 @@ We have invited experts in the field from all over the world to give the invited
 ## Invited Talks
 
 
-<h4>Jonas Stier</h4>
-<br /> 
-<br /> 
+<h3>Jonas Stier</h3>
 <b>Bio</b>: Jonas is a professor of social work at Mälardalen University. His research revolves around issues related to identity, discourses, participation, diversity, intercultural interaction, knowledge production and societal changes (e.g. migration and digitization) - and their consequences for people, groups, organizations and society in general. He is also one of the initiators of addai.org - a policy initiative linked to artificial intelligence.
 <br /> 
 <br /> 
-<h4>Simon Parkin</h4> 
-<br /> <br /> 
+<h3>Simon Parkin</h3> 
 <b>Title: Refining the Blunt Instruments of Cyber-Risk Management</b>
 <br /> <br /> 
 
@@ -63,8 +60,7 @@ We have invited experts in the field from all over the world to give the invited
 <b>Bio</b>: Simon is an Assistant Professor in the Cybersecurity group in the Technology, Policy, and Management (TPM) faculty at the Delft University of Technology (TU Delft, Netherlands). His specialization is in human-centred security: usability and perceptions of security-related technologies, security behaviour change, security economics, and decision-making in security technology management, support, and policy. Current research includes: examining how best to position security and remediation support for users of consumer IoT devices; practitioner experiences and decisions in patching of IT systems in complex organizations, and; multi-stakeholder perspectives on the management of employee-facing security in organizations.
 <br /> 
 <br /> 
-<h4>Gabriele Lenzini</h4>
-<br /> <br /> 
+<h3>Gabriele Lenzini</h3>
 <b>Title: Sociotechnical Cybersecurity: an overview, with reference to end-to-end encryption and threat intelligence</b>
 <br /> <br /> 
  
