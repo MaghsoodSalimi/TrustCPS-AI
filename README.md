@@ -58,8 +58,20 @@ He is a professor of social work at Mälardalen University. His research revolve
 **Simon Parkin** 
 <br /> 
 
-He is a professor of social work at Mälardalen University. His research revolves around issues related to identity, discourses, participation, diversity, intercultural interaction, knowledge production and societal changes (e.g. migration and digitization) - and their consequences for people, groups, organizations and society in general. He is also one of the initiators of addai.org - a policy initiative linked to artificial intelligence.
+Simon is an Assistant Professor in the TPM Cybersecurity group, specialising in human-centred security - usability and perceptions of security-related technologies, security behaviour change, security economics, and decision-making in security management. Before joining TU Delft, Simon was a Senior Research Fellow at UCL, 2012-2020. Simon completed his PhD at Newcastle University in 2007, and was a Research Associate through to 2011 and member of the Innovation Team at HP ESS until mid-2012.
 <br /> 
+
+Title:
+Title: Refining the Blunt Instruments of Cyber-Risk Management
+<br /> 
+
+ 
+
+Abstract:
+<br /> 
+
+Well-meaning cybersecurity risk owners will deploy controls and countermeasures in an effort to manage the risks they see affecting their services or systems. These controls and countermeasures may produce unintended, negative harms themselves, adversely affecting user behaviour, user inclusion, or the infrastructure itself. Here I will first describe a framework for exploring the potential unintended harms of security and privacy controls [1], informed by a range of case studies. I will then describe subsequent work to explore how existing cyber-risk management approaches can be adapted to be less ‘blunt’ and more precise [2], to preserve legitimate behaviours while preventing malicious behaviours within a managed system. This leads to consideration of challenges in securing a system against identifiable risks, while ensuring that it is usable - and ultimately, accessible - for intended users.
+
 
 
 **Gabriele Lenzini**
