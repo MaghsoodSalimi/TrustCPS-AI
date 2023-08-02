@@ -33,13 +33,13 @@
 We are organizing the workshop on human-centric cybersecurity to use the knowledge and experience of the experts in the field and to strengthen our knowledge on human-centric research. 
 We have invited experts in the field from all over the world to give the invited talks.
 
-## Confirmed Speakers
+## Invited Speakers
 <!-- FIXME Check the links -->
-**[Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft** 
+**[Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft, The Netherlands** 
 
-**[Gabriele Lenzini](https://irisc-lab.uni.lu/gabriele-lenzini/), University of Luxembourg**
+**[Gabriele Lenzini](https://irisc-lab.uni.lu/gabriele-lenzini/), University of Luxembourg, Luxembourg**
 
-**[Paolo Masci](https://www.nianet.org/directory/research-staff/paolo-masci/), Research Scientist and Principal AssociateFrom NASA Langley Research Center**
+**[Paolo Masci](https://www.nianet.org/directory/research-staff/paolo-masci/), NASA Langley Research Center, USA**
 
 
 
