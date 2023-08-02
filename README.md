@@ -38,7 +38,7 @@ We have invited experts in the field from all over the world to give the invited
 
 **[Jonas Stier](https://www.mdu.se/staff?id=jsr03), Mälardalen University, Sweden**
 
-**[Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft, The Netherlands** 
+**[Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft, Netherlands** 
 
 **[Gabriele Lenzini](https://irisc-lab.uni.lu/gabriele-lenzini/), University of Luxembourg, Luxembourg**
 
@@ -50,7 +50,7 @@ We have invited experts in the field from all over the world to give the invited
 **Jonas Stier**
 <br /> 
 
-He is a professor of social work at Mälardalen University. His research revolves around issues related to identity, discourses, participation, diversity, intercultural interaction, knowledge production and societal changes (e.g. migration and digitization) - and their consequences for people, groups, organizations and society in general. He is also one of the initiators of addai.org - a policy initiative linked to artificial intelligence.
+Jonas is a professor of social work at Mälardalen University. His research revolves around issues related to identity, discourses, participation, diversity, intercultural interaction, knowledge production and societal changes (e.g. migration and digitization) - and their consequences for people, groups, organizations and society in general. He is also one of the initiators of addai.org - a policy initiative linked to artificial intelligence.
 <br /> 
 
 
@@ -58,10 +58,10 @@ He is a professor of social work at Mälardalen University. His research revolve
 **Simon Parkin** 
 <br /> 
 
-Simon is an Assistant Professor in the TPM Cybersecurity group, specialising in human-centred security - usability and perceptions of security-related technologies, security behaviour change, security economics, and decision-making in security management. Before joining TU Delft, Simon was a Senior Research Fellow at UCL, 2012-2020. Simon completed his PhD at Newcastle University in 2007, and was a Research Associate through to 2011 and member of the Innovation Team at HP ESS until mid-2012.
+Simon is an Assistant Professor in the Cybersecurity group in the Technology, Policy, and Management (TPM) faculty at the Delft University of Technology (TU Delft, Netherlands). His specialization is in human-centred security: usability and perceptions of security-related technologies, security behaviour change, security economics, and decision-making in security technology management, support, and policy. Current research includes: examining how best to position security and remediation support for users of consumer IoT devices; practitioner experiences and decisions in patching of IT systems in complex organizations, and; multi-stakeholder perspectives on the management of employee-facing security in organizations.
+
 <br /> 
 
-Title:
 Title: Refining the Blunt Instruments of Cyber-Risk Management
 <br /> 
 
@@ -77,8 +77,25 @@ Well-meaning cybersecurity risk owners will deploy controls and countermeasures 
 **Gabriele Lenzini**
 <br /> 
 
-He is a professor of social work at Mälardalen University. His research revolves around issues related to identity, discourses, participation, diversity, intercultural interaction, knowledge production and societal changes (e.g. migration and digitization) - and their consequences for people, groups, organizations and society in general. He is also one of the initiators of addai.org - a policy initiative linked to artificial intelligence.
+Lenzini Gabriele, holds a PhD in Computer Security from the University of Twente, in the Netherlands. He is Associate Professor at the University of Luxembourg (UL), and head of the Sociotechnical Cybersecurity research group at the UL’s center for Security Reliability and Trust (SnT).
+
+ 
+
+Lenzini’s research stems from formal approach to modelling and analysis of security solutions but extends to situations where the design or the analysis of security solutions intertwine with human and social aspects. Thus, it also explores questions regarding how security related with users as individuals (usability and user experience) or as collective (people’s trust depending on properties like fairness and transparency). Lenzini is UL member in Informatics Europe, ECSO, and the IFIP WG on Human Aspects of Information Security and Assurance. He is vice-chairs of the UL Ethical Review Board.
+
 <br /> 
+
+
+Title: Sociotechnical Cybersecurity: an overview, with reference to end-to-end encryption and threat intelligence
+
+<br /> 
+ 
+
+Abstract:
+<br /> 
+
+On this talk I will give an overview of the research on sociotechnical security taking from my personal experience in running an international workshop on the subject (STAST). I will then move to explain how today sociotechnical security applies in the forthcoming topic of cybersecurity, and I will share thoughts and some insights from my on research on combining formal modelling of secure solutions with insights coming from research investigation on user experience in security. I will refer to two particular use cases: end-to-end encryption and secure cyber threats data sharing.
+
 
 **Paolo Masci**
 <br /> 
