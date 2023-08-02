@@ -57,7 +57,7 @@ Jonas is a professor of social work at Mälardalen University. His research revo
 
 
 **Simon Parkin** 
-<br /> 
+<br /> <br /> 
 <b>Title: Refining the Blunt Instruments of Cyber-Risk Management</b>
 <br /> 
 
@@ -71,15 +71,12 @@ Well-meaning cybersecurity risk owners will deploy controls and countermeasures 
 
 Simon is an Assistant Professor in the Cybersecurity group in the Technology, Policy, and Management (TPM) faculty at the Delft University of Technology (TU Delft, Netherlands). His specialization is in human-centred security: usability and perceptions of security-related technologies, security behaviour change, security economics, and decision-making in security technology management, support, and policy. Current research includes: examining how best to position security and remediation support for users of consumer IoT devices; practitioner experiences and decisions in patching of IT systems in complex organizations, and; multi-stakeholder perspectives on the management of employee-facing security in organizations.
 
-
-
 **Gabriele Lenzini**
-<br /> 
+<br /> <br /> 
 <b>Title: Sociotechnical Cybersecurity: an overview, with reference to end-to-end encryption and threat intelligence</b>
 
 <br /> 
  
-
 <b>Abstract</b>:
 <br /> 
 
@@ -94,11 +91,9 @@ Lenzini’s research stems from formal approach to modelling and analysis of sec
 
 <br /> 
 
-
 **Paolo Masci**
 <br /> 
 
-He is a professor of social work at Mälardalen University. His research revolves around issues related to identity, discourses, participation, diversity, intercultural interaction, knowledge production and societal changes (e.g. migration and digitization) - and their consequences for people, groups, organizations and society in general. He is also one of the initiators of addai.org - a policy initiative linked to artificial intelligence.
 <br /> 
 
  
