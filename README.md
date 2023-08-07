@@ -38,6 +38,8 @@ We have invited experts in the field from all over the world to give the invited
 
 **[Jonas Stier](https://www.mdu.se/staff?id=jsr03), Mälardalen University, Sweden**
 
+**[Gordana Dodig-Crnkovic](https://www.chalmers.se/en/persons/dodig/), Mälardalen University and Chalmers University of Technology, Sweden**
+
 **[Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft, Netherlands** 
 
 **[Gabriele Lenzini](https://irisc-lab.uni.lu/gabriele-lenzini/), University of Luxembourg, Luxembourg**
