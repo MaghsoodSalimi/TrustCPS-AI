@@ -69,8 +69,13 @@ Lenzini’s research stems from formal approach to modelling and analysis of sec
 <br /> 
 <br /> 
 <h3>Paolo Masci</h3>
+<b>Title: A human-centric hazard analysis method for identifying design anomalies in safety critical systems</b>
+<br /> <br /> 
+<b>Abstract</b>: In this talk I will present a hazard analysis method for the systematic identification of use-related hazards in safety critical systems. The method builds on usability engineering standards and an existing hazard analysis method. The method has been employed successfully in a range of different case studies, to identify potential design anomalies in user interface software. Examples based on medical systems will be presented, including an application to next-gen interoperable medical devices.
+<br /> <br /> 
+<b>Bio</b>: 
+Paolo Masci is an Associate Principal Research Scientist with Analytical Mechanics Associates (AMA) at NASA Langley Research Center (NASA LaRC). His expertise is on modeling and verification of human-machine interfaces in safety-critical systems. At NASA LaRC, Paolo is working on topics related to Air Mobility (UAM) and Advanced Air Mobility (AAM). Prior to joining NASA LaRC, Paolo developed his career in various universities and worked in close collaboration with the FDA Center for Devices and Radiological Health to carry out applied research on medical devices.
 <br /> 
-
 <br /> 
 
  
