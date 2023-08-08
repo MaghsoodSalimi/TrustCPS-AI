@@ -38,11 +38,11 @@ We have invited experts in the field from all over the world to give the invited
 
 **[Jonas Stier](https://www.mdu.se/staff?id=jsr03), Mälardalen University, Sweden**
 
-**[Gordana Dodig-Crnkovic](https://www.chalmers.se/en/persons/dodig/), Mälardalen University and Chalmers University of Technology, Sweden**
-
 **[Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft, Netherlands** 
 
 **[Gabriele Lenzini](https://irisc-lab.uni.lu/gabriele-lenzini/), University of Luxembourg, Luxembourg**
+
+**[Gordana Dodig-Crnkovic](https://www.chalmers.se/en/persons/dodig/), Mälardalen University and Chalmers University of Technology, Sweden**
 
 **[Paolo Masci](https://www.nianet.org/directory/research-staff/paolo-masci/), NASA Langley Research Center, USA**
 
@@ -68,6 +68,14 @@ We have invited experts in the field from all over the world to give the invited
 <br /> <br /> 
 <b>Bio</b>: Lenzini Gabriele, holds a PhD in Computer Security from the University of Twente, in the Netherlands. He is Associate Professor at the University of Luxembourg (UL), and head of the Sociotechnical Cybersecurity research group at the UL’s center for Security Reliability and Trust (SnT).
 Lenzini’s research stems from formal approach to modelling and analysis of security solutions but extends to situations where the design or the analysis of security solutions intertwine with human and social aspects. Thus, it also explores questions regarding how security related with users as individuals (usability and user experience) or as collective (people’s trust depending on properties like fairness and transparency). Lenzini is UL member in Informatics Europe, ECSO, and the IFIP WG on Human Aspects of Information Security and Assurance. He is vice-chairs of the UL Ethical Review Board.
+<br /> 
+<br /> 
+<h3>Gordana Dodig-Crnkovic</h3>
+<b>Title: Robots Ethical by Design in the Perspective of Digital Humanism</b>
+<br /> <br /> 
+<b>Abstract</b>: This keynote talk will explore the integration of ethics into the design of advanced robots and softbots through artificial morality. As these agents are set to evolve, their ethical foundation will need to align with their increasing intelligence and autonomy. The talk will introduce functional artificial moral responsibility, emphasizing a holistic approach that will merge technical, human, and societal dimensions. The significance of foresight in ethics and speculative design to address potential future challenges, especially in solving typical complex "white water problems," will be highlighted. The session will offer ethical and social perspectives from Digital Humanism, arguing that a technology-driven future must be inclusive and humane. Finally, some of the current activities of the Digital Humanism movement will be outlined.
+<br /> <br /> 
+<b>Bio</b>: Gordana Dodig-Crnković is a Professor of Computer Science at Mälardalen University and a Professor in Interaction Design at Chalmers University of Technology in Sweden. She holds Ph.D. in Physics and Computer Science. Her current research encompasses two focus areas. The first explores the physical mechanisms of computation and the interplay between morphological computation, information, and cognition. The second centers on the ethical and social implications of computing. Dodig-Crnković’s interest in the value-driven aspects of technology has led her to teach ethics to technology students for many years. This focus is attuned to new and emerging technologies and has resulted in a series of articles addressing the ethical facets of AI, robotics, and autonomous vehicles. Dodig-Crnković is actively involved in several committees and boards, including the Chalmers AI Ethics Committee, Informatics Europe Board, the European Network for Gender Balance in Informatics (EUGAIN), and the Inclusion4EU project.
 <br /> 
 <br /> 
 <h3>Paolo Masci</h3>
