@@ -44,7 +44,10 @@ We have invited experts in the field from all over the world to give the invited
 
 **[Gabriele Lenzini](https://irisc-lab.uni.lu/gabriele-lenzini/), University of Luxembourg, Luxembourg**
 
-**[Paolo Masci](https://www.nianet.org/directory/research-staff/paolo-masci/), NASA Langley Research Center, USA**
+**[Paolo Masci](https://pmasci.github.io), NASA Langley Research Center, USA**
+
+
+
 
 ## Invited Talks
 
