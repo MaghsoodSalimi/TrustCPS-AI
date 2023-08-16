@@ -149,9 +149,9 @@ Paolo Masci is an Associate Principal Research Scientist with Analytical Mechani
 
 11:10 - 12:00 &nbsp; &nbsp; **Simon Parkin:** Refining the Blunt Instruments of Cyber-Risk Management
 
-12:00 - 13:30  &nbsp; &nbsp; **Lunch**
+12:00 - 13:30 &nbsp; &nbsp; **Lunch**
 
-13:30 - 14:20 &nbsp; &nbsp;  **Gordana Dodig-Crnkovic:** Robots Ethical by Design in the Perspective of Digital Humanism
+13:30 - 14:20 &nbsp; &nbsp; **Gordana Dodig-Crnkovic:** Robots Ethical by Design in the Perspective of Digital Humanism
 
 14:20 - 15:10 &nbsp; &nbsp; **Paolo Masci:** A human-centric hazard analysis method for identifying design anomalies in safety critical systems
 
