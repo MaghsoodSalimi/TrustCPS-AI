@@ -30,8 +30,11 @@
 -->
 
 ## About
-We are organizing the workshop on human-centric cybersecurity to use the knowledge and experience of the experts in the field and to strengthen our knowledge on human-centric research. 
-We have invited experts in the field from all over the world to give the invited talks.
+We are organizing the first workshop on human-centric cybersecurity at MDU. As in many other areas of engineering the term “human-centric” is becoming a mean to stress the importance of involving end-users and other stakeholders into the design processes, system development, and all the way to testing, validation and verification.
+We have invited experts in the field from all over the world giving talks on various aspects of human-centric cybersecurity and safety, and in general human factor in our digital world.
+The goal of the workshop is to use the knowledge and experience of the experts in the field and strengthen our knowledge on human-centric research.
+
+
 
 ## Invited Speakers
 <!-- FIXME Check the links -->
