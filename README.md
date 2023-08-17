@@ -164,7 +164,7 @@ Please note that this is a hybrid event and you can also follow online, but a re
 
 
 
-## Organizers:
+## Organizers
 [Marjan Sirjani](http://www.es.mdu.se/staff/3242-Marjan_Sirjani)
 
 [Kristina Lundqvist](http://www.es.mdu.se/staff/180-Kristina_Lundqvist)
