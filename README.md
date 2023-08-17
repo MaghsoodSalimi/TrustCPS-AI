@@ -171,6 +171,8 @@ Please note that this is a hybrid event and you can also follow online, but a re
 
 [Cristina Seceleanu](http://www.es.mdu.se/staff/173-Cristina_Seceleanu)
 
+[Baran Cürüklü](https://www.es.mdu.se/staff/15-Baran___uruklu)
+
 [Zahra Moezkarimi](https://www.mdu.se/staff?id=zmi01)
 
 
