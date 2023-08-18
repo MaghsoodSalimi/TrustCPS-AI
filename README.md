@@ -56,7 +56,11 @@ The goal of the workshop is to use the knowledge and experience of the experts i
 
 
 <h3>Jonas Stier</h3>
-<b>Bio</b>: Jonas is a professor of social work at Mälardalen University. His research revolves around issues related to identity, discourses, participation, diversity, intercultural interaction, knowledge production and societal changes (e.g. migration and digitization) - and their consequences for people, groups, organizations and society in general. He is also one of the initiators of addai.org - a policy initiative linked to artificial intelligence.
+<b>Title: Human-centric Technology – an existential, psychological and social looking glass for society</b>
+<br /> <br /> 
+<b>Abstract</b>: It is common to address benefits and challenges of technology and security from their foreseeable impact on people, companies, and society. Less common is to view technology as what the American anthropologist Edward Hall already 60 years ago described as a cultural extension. As such an extension, technology provides valuable insights about the existential, psychological and social make- up of humans and various layers of society. Departing from the question “What is human in humancentric”, this speech discusses technology as a means to better understand individual, groups, organizations and society as a whole. Attention will be given to communication and discourses on digitalization, fear and anxiety.
+<br /> <br /> 
+<b>Bio</b>: Jonas Stier is a sociologist and professor of Social Work at Mälardalen University. Among other things, his research focuses on identity, interaction, communication and societal transformation. He is one of the co-founders of Addai.org – a interdisciplinary and cross-sectional policy initiative on artificial intelligence.
 <br /> 
 <br /> 
 <h3>Gordana Dodig-Crnkovic</h3>
