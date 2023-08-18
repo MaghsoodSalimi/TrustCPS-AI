@@ -145,7 +145,7 @@ Paolo Masci is an Associate Principal Research Scientist with Analytical Mechani
 
 09:00 - 09:10 &nbsp; &nbsp; **Marjan Sirjani:** Opening and Welcome
 
-09:10 - 10:00 &nbsp; &nbsp; **Jonas Stier:** -
+09:10 - 10:00 &nbsp; &nbsp; **Jonas Stier:** Human-centric Technology – an existential, psychological and social looking glass for society
 
 10:00 - 10:50 &nbsp; &nbsp; **Gabriele Lenzini:** Sociotechnical Cybersecurity: an overview, with reference to end-to-end encryption and threat intelligence
 
