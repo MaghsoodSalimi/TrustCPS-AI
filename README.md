@@ -147,7 +147,7 @@ Paolo Masci is an Associate Principal Research Scientist with Analytical Mechani
 
 09:10 - 10:00 &nbsp; &nbsp; **Jonas Stier:** Human-centric Technology – an existential, psychological and social looking glass for society
 
-10:00 - 10:50 &nbsp; &nbsp; **Gabriele Lenzini:** Sociotechnical Cybersecurity: an overview, with reference to end-to-end encryption and threat intelligence **(Online)**
+10:00 - 10:50 &nbsp; &nbsp; **Gabriele Lenzini (Online):** Sociotechnical Cybersecurity: an overview, with reference to end-to-end encryption and threat intelligence 
 
 10:50 - 11:10 &nbsp; &nbsp; **Break**
 
@@ -157,7 +157,7 @@ Paolo Masci is an Associate Principal Research Scientist with Analytical Mechani
 
 13:30 - 14:20 &nbsp; &nbsp; **Gordana Dodig-Crnkovic:** Robots Ethical by Design in the Perspective of Digital Humanism
 
-14:20 - 15:10 &nbsp; &nbsp; **Paolo Masci:** A human-centric hazard analysis method for identifying design anomalies in safety critical systems **(Online)**
+14:20 - 15:10 &nbsp; &nbsp; **Paolo Masci (Online):** A human-centric hazard analysis method for identifying design anomalies in safety critical systems 
 
 
 ## Place
