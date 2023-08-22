@@ -167,7 +167,7 @@ Paolo Masci is an Associate Principal Research Scientist with Analytical Mechani
 Please note that this is a hybrid event and you can also follow online, but a reliable connection is not guaranteed.
 
 ## Online
-**Zoom:** https://mdu-se.zoom.us/j/65025517596?pwd=b2xRRnMvVUczM1psUEVBam5ORGJNZz09
+**Zoom:** <https://mdu-se.zoom.us/j/65025517596?pwd=b2xRRnMvVUczM1psUEVBam5ORGJNZz09>
 
 
 ## Organizers
