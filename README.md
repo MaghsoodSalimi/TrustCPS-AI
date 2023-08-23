@@ -153,12 +153,13 @@ Paolo Masci is an Associate Principal Research Scientist with Analytical Mechani
 
 11:10 - 12:00 &nbsp; &nbsp; **Simon Parkin:** Refining the Blunt Instruments of Cyber-Risk Management
 
-12:00 - 13:30 &nbsp; &nbsp; **Lunch Break*** (Lunch will not be provided by the workshop, we will have lunch at the Rosenhill restaurant at MDU.)
+12:00 - 13:30 &nbsp; &nbsp; **Lunch Break*** 
 
 13:30 - 14:20 &nbsp; &nbsp; **Gordana Dodig-Crnkovic:** Robots Ethical by Design in the Perspective of Digital Humanism
 
 14:20 - 15:10 &nbsp; &nbsp; **Paolo Masci (Online):** A human-centric hazard analysis method for identifying design anomalies in safety critical systems 
 
+ * Lunch will not be provided by the workshop, we will have lunch at the Rosenhill restaurant at MDU. Welcome to join and pay yourself. 🙂
 
 ## Place
 <!-- FIXME Insert teams link -->
