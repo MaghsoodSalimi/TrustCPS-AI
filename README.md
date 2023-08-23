@@ -159,7 +159,7 @@ Paolo Masci is an Associate Principal Research Scientist with Analytical Mechani
 
 14:20 - 15:10 &nbsp; &nbsp; **Paolo Masci (Online):** A human-centric hazard analysis method for identifying design anomalies in safety critical systems 
 
- * Lunch will not be provided by the workshop, we will have lunch at the Rosenhill restaurant at MDU. Welcome to join and pay yourself. 🙂
+  *Lunch will not be provided by the workshop, we will have lunch at the Rosenhill restaurant at MDU. Welcome to join and pay yourself. 🙂
 
 ## Place
 <!-- FIXME Insert teams link -->
