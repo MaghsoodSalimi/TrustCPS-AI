@@ -143,23 +143,29 @@ Paolo Masci is an Associate Principal Research Scientist with Analytical Mechani
 
 ## Schedule
 
-09:00 - 09:10 &nbsp; &nbsp; **Marjan Sirjani:** Opening and Welcome
+**09:00 - 10:00** &nbsp; &nbsp; **Edward Lee:** Certainty or Intelligence, Pick One  
 
-09:10 - 10:00 &nbsp; &nbsp; **Jonas Stier:** Human-centric Technology – an existential, psychological and social looking glass for society
+**10:00 - 10:15** &nbsp; &nbsp; **Break**  
 
-10:00 - 10:50 &nbsp; &nbsp; **Gabriele Lenzini (Online):** Sociotechnical Cybersecurity: an overview, with reference to end-to-end encryption and threat intelligence 
+**10:15 - 11:00** &nbsp; &nbsp; **Hazem Torfeh:** Formal verification and monitoring in autonomous driving  
 
-10:50 - 11:10 &nbsp; &nbsp; **Break**
+**11:00 - 12:00** &nbsp; &nbsp; **Marjan Sirjani and team:** Runtime monitoring and shielding AI-enabled CPS  
 
-11:10 - 12:00 &nbsp; &nbsp; **Simon Parkin:** Refining the Blunt Instruments of Cyber-Risk Management
+**12:00 - 13:00** &nbsp; &nbsp; **Lunch Break***  
 
-12:00 - 13:30 &nbsp; &nbsp; **Lunch Break*** 
+**13:00 - 13:40** &nbsp; &nbsp; **Matthias Wagner:** The AI Act’s (AIA) requirements for high-risk AI systems and the effect on modern software systems and industry  
 
-13:30 - 14:20 &nbsp; &nbsp; **Gordana Dodig-Crnkovic:** Robots Ethical by Design in the Perspective of Digital Humanism
+**13:40 - 14:10** &nbsp; &nbsp; **Shiva Sander Tavallaey:** Trustworthy AI at ABB  
 
-14:20 - 15:10 &nbsp; &nbsp; **Paolo Masci (Online):** A human-centric hazard analysis method for identifying design anomalies in safety critical systems 
+**14:10 - 15:00** &nbsp; &nbsp; **Panel**  
 
-  *Lunch will not be provided by the workshop, we will have lunch at the Rosenhill restaurant at MDU. Welcome to join and pay yourself. 🙂
+**15:00 - 15:15** &nbsp; &nbsp; **Break**  
+
+**15:15 - 16:00** &nbsp; &nbsp; **Claire Pagetti (Online):** Formal verification and certified machine learning and Airbus  
+
+**16:00 - 17:00** &nbsp; &nbsp; **Pierluigi Nuzzo (Online):** Formal verification and AI in CPS  
+
+
 
 ## Place
 <!-- FIXME Insert teams link -->
