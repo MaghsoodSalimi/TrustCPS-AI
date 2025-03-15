@@ -143,11 +143,11 @@ Paolo Masci is an Associate Principal Research Scientist with Analytical Mechani
 
 ## Schedule
 
-**09:00 - 10:00** &nbsp; &nbsp; **Edward Lee:** Certainty or Intelligence, Pick One  
+**09:00 - 10:00** &nbsp; &nbsp; **Edward Lee:** 
 
 **10:00 - 10:15** &nbsp; &nbsp; **Break**  
 
-**10:15 - 11:00** &nbsp; &nbsp; **Hazem Torfeh:** Formal verification and monitoring in autonomous driving  
+**10:15 - 11:00** &nbsp; &nbsp; **Hazem Torfah:** Formal verification and monitoring in autonomous driving  
 
 **11:00 - 12:00** &nbsp; &nbsp; **Marjan Sirjani and team:** Runtime monitoring and shielding AI-enabled CPS  
 
