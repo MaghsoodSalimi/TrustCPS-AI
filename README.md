@@ -100,47 +100,7 @@ Paolo Masci is an Associate Principal Research Scientist with Analytical Mechani
 
  
 
-
-
-<!--
-<img src="./SimonParkin.jpeg" align="left" height="90" width="90" >
-
-#### [Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft 
-**Title:** TBA
-
-<br /> 
-
-
-**Abstract:** TBA
-
-**Bio:** TBA
-
-
-<img src="./Gabriele-Lenzini.png" align="left" height="90" width="90" >
-
-#### [Gabriele Lenzini](), University of Luxembourg
-**Title:** TBA
-
-<br /> 
-
-**Abstract:** TBA
-
-**Bio:** TBA
-
-
-<img src="./PaoloMasci.jpeg" align="left" height="90" width="90" >
-
-#### [Paolo Masci](https://www.nianet.org/directory/research-staff/paolo-masci/),Research Scientist and Principal AssociateFrom NASA Langley Research Center
-**Title:** TBA
-
-<br /> 
-
-**Abstract:** TBA
-
-**Bio:** TBA
-
--->
-
+ 
 ## Schedule
 
 **09:00 - 10:00** &nbsp; &nbsp; **Edward Lee:** 
@@ -168,8 +128,8 @@ Paolo Masci is an Associate Principal Research Scientist with Analytical Mechani
 
 
 ## Place
-<!-- FIXME Insert teams link -->
-**Milos** conference room, Second floor of R building, MDU, Västerås. 
+
+**Alpha** conference room, First floor of U building, MDU, Västerås. 
 
 Please note that this is a hybrid event and you can also follow online, but a reliable connection is not guaranteed.
 
