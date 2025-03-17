@@ -62,7 +62,7 @@ The goal of the workshop is to use the knowledge and experience of the experts i
 
 
 ## Edward A. Lee  
-### Certainty or Intelligence: Pick One!  
+### Title: Certainty or Intelligence: Pick One!  
 
 ### Abstract  
 Cyber-physical systems are systems that integrate software and networking with physical components that sense and actuate in the physical world. Traditionally, to make them trustworthy, engineers strive to make their behaviors predictable, repeatable, and provably safe. While security is essential to achieving these objectives, it is by no means sufficient. Many technical challenges arise with sporadic connectivity, real-time behaviors, and handling of inevitable faults.  
@@ -80,6 +80,17 @@ He received his BS degree in 1979 from Yale University, with a double major in C
 
 He is a co-founder of BDTI, Inc., where he is currently a Senior Technical Advisor, and has consulted for a number of other companies. He is a Fellow of the IEEE, was an NSF Presidential Young Investigator, won the 1997 Frederick Emmons Terman Award for Engineering Education, received the 2016 Outstanding Technical Achievement and Leadership Award from the IEEE Technical Committee on Real-Time Systems (TCRTS), the 2018 Berkeley Citation, the 2019 IEEE Technical Committee on Cyber-Physical Systems (TCCPS) Technical Achievement Award, the 2022 European Design and Automation Association (EDAA) Achievement Award, the 2022 ACM SIGBED Technical Achievement Award, and an Honorary Doctorate in Computer Science from the Technical University of Vienna.  
 
+
+## Hazem Torfah  
+### Title: Learning and Monitoring the Operational Design Domain for AI-Based Autonomy  
+
+### Abstract  
+The deployment of autonomous systems in complex environments has increased significantly in recent years, with many relying on machine learning (ML) components for critical decision-making tasks. However, ML models are inherently brittle and prone to failures that can compromise system safety. This highlights the need for a systematic methodology to identify the conditions under which autonomy pipeline components may fail at design time and to detect such failures at runtime.  
+
+This talk introduces a novel safety assurance approach for autonomous systems based on runtime verification. Runtime verification involves extracting information from a system at runtime and evaluating it to determine whether an execution satisfies or violates a given (safety) property. We will present recent advancements in runtime verification methods for capturing operational design domains (ODD), the conditions under which a system or its components are designed to operate safely. We will introduce a formalization for monitorable ODDs and discuss challenges in learning monitors for ODDs in noisy and unpredictable environments.  
+
+### Bio  
+*No bio provided.*  
 
 
 
