@@ -60,14 +60,29 @@ The goal of the workshop is to use the knowledge and experience of the experts i
 ## Invited Talks
 
 
-<h3>Jonas Stier</h3>
-<b>Title: Human-centric Technology – an existential, psychological and social looking glass for society</b>
-<br /> <br /> 
-<b>Abstract</b>: It is common to address benefits and challenges of technology and security from their foreseeable impact on people, companies, and society. Less common is to view technology as what the American anthropologist Edward Hall already 60 years ago described as a cultural extension. As such an extension, technology provides valuable insights about the existential, psychological and social make- up of humans and various layers of society. Departing from the question “What is human in humancentric”, this speech discusses technology as a means to better understand individual, groups, organizations and society as a whole. Attention will be given to communication and discourses on digitalization, fear and anxiety.
-<br /> <br /> 
-<b>Bio</b>: Jonas Stier is a sociologist and professor of Social Work at Mälardalen University. Among other things, his research focuses on identity, interaction, communication and societal transformation. He is one of the co-founders of Addai.org – a interdisciplinary and cross-sectional policy initiative on artificial intelligence.
-<br /> 
-<br /> 
+# Certainty or Intelligence: Pick One!  
+### Edward A. Lee  
+
+## Abstract  
+Cyber-physical systems are systems that integrate software and networking with physical components that sense and actuate in the physical world. Traditionally, to make them trustworthy, engineers strive to make their behaviors predictable, repeatable, and provably safe. While security is essential to achieving these objectives, it is by no means sufficient. Many technical challenges arise with sporadic connectivity, real-time behaviors, and handling of inevitable faults.  
+
+While the integration of machine-learning-based AI systems holds promise of being able to help deal with many of the security and other challenges, they simultaneously make behaviors less predictable and repeatable. In this talk, I postulate that the certainty that is traditionally achieved with rigorous engineering methods may be fundamentally incompatible with integrating intelligence into our systems. The question then becomes, how do we get the advantages of intelligence with acceptable risk?  
+
+## Bio  
+Edward A. Lee is Professor of the Graduate School and Distinguished Professor Emeritus in Electrical Engineering and Computer Sciences (EECS) at the University of California at Berkeley, where he has been on the faculty since 1986. He is the author of seven books, some with several editions, including two for a general audience, and hundreds of papers and technical reports.  
+
+Lee has delivered more than 200 keynote and other invited talks at venues worldwide and has graduated 40 PhD students. His research group studies cyber-physical systems, which integrate physical dynamics with software and networks. His focus is on the use of deterministic models as a central part of the engineering toolkit for such systems. He is the director of iCyPhy, the Berkeley Industrial Cyber-Physical Systems Research Center.  
+
+From 2005-2008, he served as Chair of the EE Division and then Chair of the EECS Department at UC Berkeley. He has led the development of several influential open-source software packages, notably Ptolemy and Lingua Franca.  
+
+He received his BS degree in 1979 from Yale University, with a double major in Computer Science and Engineering and Applied Science, an SM degree in EECS from MIT in 1981, and a Ph.D. in EECS from UC Berkeley in 1986. From 1979 to 1982, he was a member of technical staff at Bell Labs in Holmdel, New Jersey, in the Advanced Data Communications Laboratory.  
+
+He is a co-founder of BDTI, Inc., where he is currently a Senior Technical Advisor, and has consulted for a number of other companies. He is a Fellow of the IEEE, was an NSF Presidential Young Investigator, won the 1997 Frederick Emmons Terman Award for Engineering Education, received the 2016 Outstanding Technical Achievement and Leadership Award from the IEEE Technical Committee on Real-Time Systems (TCRTS), the 2018 Berkeley Citation, the 2019 IEEE Technical Committee on Cyber-Physical Systems (TCCPS) Technical Achievement Award, the 2022 European Design and Automation Association (EDAA) Achievement Award, the 2022 ACM SIGBED Technical Achievement Award, and an Honorary Doctorate in Computer Science from the Technical University of Vienna.  
+
+
+
+
+
 <h3>Gordana Dodig-Crnkovic</h3>
 <b>Title: Robots Ethical by Design in the Perspective of Digital Humanism</b>
 <br /> <br /> 
@@ -108,7 +123,7 @@ Paolo Masci is an Associate Principal Research Scientist with Analytical Mechani
  
 ## Schedule
 
-**09:00 - 10:00** &nbsp; &nbsp; **Edward Lee:** 
+**09:00 - 10:00** &nbsp; &nbsp; **Edward Lee:** Certainty or Intelligence: Pick One!
 
 **10:00 - 10:15** &nbsp; &nbsp; **Break**  
 
@@ -139,18 +154,12 @@ Paolo Masci is an Associate Principal Research Scientist with Analytical Mechani
 Please note that this is a hybrid event and you can also follow online, but a reliable connection is not guaranteed.
 
 ## Online
-**Zoom:** [https://mdu-se.zoom.us/j/65025517596?pwd=b2xRRnMvVUczM1psUEVBam5ORGJNZz09](https://mdu-se.zoom.us/j/65025517596?pwd=b2xRRnMvVUczM1psUEVBam5ORGJNZz09)
+**Zoom:** TODO- put link
 
 ## Organizers
 [Marjan Sirjani](http://www.es.mdu.se/staff/3242-Marjan_Sirjani)
 
-[Kristina Lundqvist](http://www.es.mdu.se/staff/180-Kristina_Lundqvist)
-
-[Cristina Seceleanu](http://www.es.mdu.se/staff/173-Cristina_Seceleanu)
-
-[Baran Cürüklü](https://www.es.mdu.se/staff/15-Baran___uruklu)
-
-[Zahra Moezkarimi](https://www.mdu.se/staff?id=zmi01)
+TODO: any1 else?
 
 
 ## Contact Info
