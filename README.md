@@ -163,7 +163,7 @@ By synthesizing theoretical insights with practical industrial applications, the
 
 **13:00 - 13:40** &nbsp; &nbsp; **Matthias Wagner:** The EU AI Act in Light of CPS: Assessing the Challenges and Impact of the Act’s Requirements on Industry
 
-**13:40 - 14:10** &nbsp; &nbsp; **Shiva Sander Tavallaey:** Trustworthy AI at ABB  
+**13:40 - 14:10** &nbsp; &nbsp; **Shiva Sander Tavallaey:** Trustworthy AI in Industrial Contexts: Balancing Innovation and Reliability
 
 **14:10 - 15:00** &nbsp; &nbsp; **Panel**  
 
