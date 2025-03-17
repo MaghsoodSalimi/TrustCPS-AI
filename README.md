@@ -39,15 +39,20 @@ The goal of the workshop is to use the knowledge and experience of the experts i
 ## Invited Speakers
 <!-- FIXME Check the links -->
 
-**[Jonas Stier](https://www.mdu.se/staff?id=jsr03), Mälardalen University, Sweden**
+**[Edward Lee](https://www2.eecs.berkeley.edu/Faculty/Homepages/lee.html), UC Berkeley, USA**
 
-**[Gordana Dodig-Crnkovic](https://www.chalmers.se/en/persons/dodig/), Mälardalen University and Chalmers University of Technology, Sweden**
+**[Hazem Torfah](https://www.chalmers.se/en/persons/hazemto/), Chalmers University of Technology, Sweden**
 
-**[Simon Parkin](https://www.tudelft.nl/staff/s.e.parkin/?cHash=ef8a6923cb175152ae46a2749ee95259), TU Delft, Netherlands** 
+**[Marjan Sirjani](https://www.es.mdu.se/staff/3242-Marjan_Sirjani), Mälardalen University, Sweden** 
 
-**[Gabriele Lenzini](https://irisc-lab.uni.lu/gabriele-lenzini/), University of Luxembourg, Luxembourg**
+**[Matthias Wagner](https://portal.research.lu.se/sv/persons/matthias-wagner), Lund University, Sweden**
 
-**[Paolo Masci](https://pmasci.github.io), NASA Langley Research Center, USA**
+**[Shiva Sander Tavallaey](https://www.kth.se/profile/tssander), ABB and KTH, Sweden**
+
+**[Claire Pagetti](https://www.onera.fr/en/staff/claire-pagetti), ONERA, France**
+
+**[Pierluigi Nuzzo](https://www2.eecs.berkeley.edu/Faculty/Homepages/pnuzzo.html), UC Berkeley, USA**
+
 
 
 
