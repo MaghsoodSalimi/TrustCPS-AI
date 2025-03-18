@@ -120,10 +120,10 @@ By synthesizing theoretical insights with practical industrial applications, the
 ### Title: Formal verification and certified machine learning and Airbus    
 
 ### Abstract  
-*No bio provided.*  
+Machine learning applications have been gaining considerable attention in the field of transportation. However, their use in real-life operational safety-critical products, in particular in the aeronautical domain subject to stringent certification, raises several issues regarding functional correctness, compliance with requirements, formal verification, safety or implementation. In this talk, we will briefly present the current guidelines for integrating ML algorithms in airborne systems, with a focus on the verifiability aspect. We will then see some promising formal verification results on surrogate models and on object detection models.
 
 ### Bio  
-*No bio provided.*  
+Claire Pagetti is a senior research scientist at ONERA. She holds a research chair in the ANITI cluster on “Embeddability and safety assurance of ML-based systems under certification”. Her fields of interest concern the safe implementation of safety critical applications on avionic platforms. She has contributed to several industrial, European and French projects that lead to several publications and industrial developments.
 
 ##  Pierluigi Nuzzo
 ### Title: Formal verification and AI in CPS  
