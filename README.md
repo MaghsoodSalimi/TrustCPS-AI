@@ -173,8 +173,11 @@ Please note that this is a hybrid event and you can also follow online, but a re
 ## Organizers
 [Marjan Sirjani](http://www.es.mdu.se/staff/3242-Marjan_Sirjani)
 
-TODO: any1 else?
 
+
+
+## Acknowledgement
+Thanks to the MDU TSS initiative for providing the budget and support.
 
 ## Contact Info
 Marjan Sirjani
