@@ -126,10 +126,11 @@ Machine learning applications have been gaining considerable attention in the fi
 Claire Pagetti is a senior research scientist at ONERA. She holds a research chair in the ANITI cluster on “Embeddability and safety assurance of ML-based systems under certification”. Her fields of interest concern the safe implementation of safety critical applications on avionic platforms. She has contributed to several industrial, European and French projects that lead to several publications and industrial developments.
 
 ##  Pierluigi Nuzzo
-### Title: Formal verification and AI in CPS  
+### Title: Assume-Guarantee Contracts for Trustworthy Autonomous Cyber-Physical Systems
 
 ### Abstract  
-*No bio provided.*  
+Abstract: Increasingly more sophisticated tasks that were previously allocated to humans are expected to be performed by software, including modern artificial intelligence (AI) methods, in a variety of missioncritical cyber-physical systems, for example, in avionics, automobiles, robotics, and manufacturing. One of the biggest challenges to trustworthy autonomy is arguably in showing that these software and AI-enabled autonomous functions, running on heterogeneous, interconnected sensing, computation, and actuation platforms, will still satisfy the stringent safety and dependability requirements of mission-critical systems in uncertain or unpredictable environments.
+In this talk, I will introduce our approach to design-time assurance for autonomous cyber-physical systems, leveraging the rich modeling and specification formalism of assume-guarantee contracts and their probabilistic extensions. I will present how contracts enable compositional, quantitative requirement analysis and system verification in the presence of uncertainty as well as correct-by-construction, logically constrained decision making and learning under uncertainty. I will then discuss how contracts can provide the semantic foundation for the automated construction of assurance cases, structured arguments about system dependability, which can accelerate system certification and help transition from a process-driven to a property-driven and evidence-based certification approach. Finally, I’ll conclude with a vision, mediated by contracts, for continuous assurance of intelligent autonomous systems. 
 
 ### Bio  
 *No bio provided.*  
