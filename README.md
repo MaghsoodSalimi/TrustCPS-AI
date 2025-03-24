@@ -82,7 +82,7 @@ This talk introduces a novel safety assurance approach for autonomous systems ba
 ### Title: Runtime monitoring and shielding AI-enabled CPS  
 
 ### Abstract  
-*No abstract provided.*  
+As AI systems become integral to cyber-physical systems, ensuring their dependable behavior has never been more critical. Although developed by scientists and engineers, AI components may behave differently from traditional engineered artifacts. After facing challenges in explaining AI behavior, we are shifting our focus toward shielding AI components using guardrails to ensure system dependability. In this talk, we present a range of projects we have worked on aimed at safeguarding AI-enabled cyber-physical systems from AI misbehavior. Our efforts include techniques such as digital twins, property-based testing, mutation testing, and runtime monitoring. The presentation is based on the work of Zahra Moezkarimi, Masoud Ebrahimi, Khashayar Etemadi Someoliayi, Kristina Lundqvist and Kaj Hänninen.
 
 ### Bio  
 *No bio provided.*  
