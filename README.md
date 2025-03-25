@@ -9,16 +9,7 @@
 ![Image](tr.jpeg)
 
 
-
-<!--
-# HCC2023
-
-**Workshop on Human Centric Cybersecurity HCC2023**
-
-**[Mälardalen University](https://www.mdu.se/en/malardalen-university), Västerås, Sweden**
-
-**August 24th, 2023**
--->
+ 
 
 ## About
 TODO: Description here !
